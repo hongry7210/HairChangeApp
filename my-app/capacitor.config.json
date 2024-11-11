@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "hairchangeapp",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
